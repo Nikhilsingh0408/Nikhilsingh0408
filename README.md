@@ -72,9 +72,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nikhil-singh4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/nikhil_singh04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="[https://instagram.com/nikhil_singh04](https://www.instagram.com/nikhilsingh7970/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/nikhilsing38684"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://facebook.com/nikhil.singh.58910"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="[https://facebook.com/nikhil.singh.58910](https://www.facebook.com/nikhil.singh.296042)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.leetcode.com/nikhil_singh04"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/nikhilsingh0408"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/nikhilreu6z6"><img src="https://img.shields.io/badge/GFG-%2300FF00?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
