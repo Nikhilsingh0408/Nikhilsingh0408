@@ -1,7 +1,8 @@
 <!-- Hero Section -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Developer Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">🚀 _MERN Stack Developer_ | 💻 _1000+ DSA Problems Solved_ | 📍 _India_</h3>
@@ -12,7 +13,7 @@
 </p>
 
 <!-- Right side image in About Section -->
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="coding" width="470" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
 
 ---
 
